@@ -1,0 +1,5 @@
+#Ignore File Directories
+obj/
+bin/
+node_modules/
+.vs/
